@@ -17,7 +17,6 @@
 - JWT Token, RetrofitAPI 를 이용. Back-End와 통신
 - 한국관광공사의 데이터를 크롤링해 어플에 표시
 
-<BR><BR>
   <div align=center> <img src="./images/diagram.png" style="width:630px" height="400px"></div>
   <BR><BR>
 ## Result
