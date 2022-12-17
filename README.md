@@ -18,10 +18,14 @@
 - 한국관광공사의 데이터를 크롤링해 어플에 표시
 
 <BR><BR>
-  
+  <div align=center> <img src="./images/diagram.png" style="width:630px" height="400px"></div>
   <BR><BR>
 ## Result
 
+### Find Password, ID - 아이디찾기, 비밀번호 찾기
+<div align=center> <img src="./images/find.png" style="width:630px" height="400px"></div>
+
+<br>
 
 
 
